@@ -1,0 +1,25 @@
+{
+  "name": "lib",
+  "version": "1.4.0",
+  "authors": [
+    "Nina-wj <1284663246@qq.com>"
+  ],
+  "description": "This is kissy-1.2 and jquery-1.7",
+  "moduleType": [
+    "kissy"
+  ],
+  "main": [
+    "*/*"
+  ],
+  "keywords": [
+    "kissy",
+    "jquery"
+  ],
+  "_release": "1.4.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
