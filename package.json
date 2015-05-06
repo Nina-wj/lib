@@ -1,0 +1,13 @@
+{
+  "name": "lib",
+  "version": "1.4.0",
+  "description": "This is a repository of kissy and jquery",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nina-wj/lib.git"
+  },
+  "author": "Nina"
+}
